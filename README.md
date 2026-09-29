@@ -10,6 +10,7 @@ I build performant, serverless, cloud based web applications with AI features li
 
 - 🤖 **[AI Storefront](https://ai-storefront.bobdempsey83.com/)** ([repo](https://github.com/BobDempsey/ai-storefront)): An AI shopping assistant that searches the catalogue, suggests cart changes, and drafts orders, built into a full stack e-commerce storefront. Nuxt 4, TypeScript, Supabase, OpenAI API.
 - 🤖 **[AI Frontend Advisor](https://ai-frontend-advisor.bobdempsey83.com/)** ([repo](https://github.com/BobDempsey/ai-frontend-advisor)): An AI assistant answers questions from a comparison of eight React and Vue UI libraries, each building the same screen from one spec. React, Vue, TypeScript, shadcn/ui, OpenAI.
+- 🤖 **[AI Chatbot Builder](https://ai-chatbot-builder.bobdempsey83.com/)** ([repo](https://github.com/BobDempsey/ai-chatbot-builder)): An AI support chatbot that answers from your own docs with cited sections, embedded on any site with one script tag. React, Hono, TypeScript, Supabase pgvector, OpenAI.
 
 ## Tech
 
